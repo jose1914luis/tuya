@@ -82,3 +82,5 @@
 /home/jose/Downloads/TuyaTest/obj/Debug/net5.0/ref/TuyaTest.dll
 /home/jose/Downloads/TuyaTest/obj/Debug/net5.0/TuyaTest.pdb
 /home/jose/Downloads/TuyaTest/obj/Debug/net5.0/TuyaTest.genruntimeconfig.cache
+/home/jose/Downloads/TuyaTest/bin/Debug/net5.0/Humanizer.dll
+/home/jose/Downloads/TuyaTest/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll

@@ -6,6 +6,7 @@ namespace TuyaTest
 {
     public class BloggingContext : DbContext
     {
+        public DbSet<Cliente> Cliente { get; set; }
         public DbSet<Producto> Producto { get; set; }
         public DbSet<Factura> Factura { get; set; }
         public DbSet<DescripcionFactura> DescripcionFactura { get; set; }

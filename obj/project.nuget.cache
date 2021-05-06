@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tM7BHmD4ZbraRV6/Twhn9GgG8+SjxsG2KBh+6yWLehZ9bdsxxtdD8QVq4aPjN5kDcWpqdW/NQrETBFitV/iRBA==",
+  "dgSpecHash": "jlpF5R9AfP+Rv/pEbbrM2mxfp8X52Rb0N9kFh5HQQHb5L1QD8OB7qoIAE/SPTl8f9HnEz/+LRnB4xwleOf7e6w==",
   "success": true,
   "projectFilePath": "/home/jose/Downloads/TuyaTest/TuyaTest.csproj",
   "expectedPackageFiles": [
-    "/home/jose/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/jose/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/jose/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.0.1/microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
@@ -12,6 +13,7 @@
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.5/microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.5/microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
+    "/home/jose/.nuget/packages/microsoft.entityframeworkcore.design/5.0.5/microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.5/microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.5/microsoft.entityframeworkcore.sqlite.5.0.5.nupkg.sha512",
     "/home/jose/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.5/microsoft.entityframeworkcore.sqlite.core.5.0.5.nupkg.sha512",

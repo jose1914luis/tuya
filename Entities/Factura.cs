@@ -10,6 +10,6 @@ namespace TuyaTest
         public Cliente Cliente { get; set; }
         public DateTime FechaFactura { get; set; }
         public int TotalFactura { get; set; }
-        public List<DescripcionFactura> Posts { get; } = new List<DescripcionFactura>();
+        public List<DescripcionFactura> DescripcionFacturas { get; } = new List<DescripcionFactura>();
     }
 }
